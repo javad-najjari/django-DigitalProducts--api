@@ -6,4 +6,8 @@ step3 : run the following command :
 
 docker-compose up --build\
 \
-wait for the app to load ...
+wait for the app to load ...\
+\
+\
+now you can login to the admin panel with this information\
+username: admin, password: admin
